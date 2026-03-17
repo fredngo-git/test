@@ -1,0 +1,96 @@
+.container {
+    overflow: auto;
+}
+.rotation-method-wrapper {
+    width: 850px;
+    padding-left: 62px;
+}
+
+.rotation-method-wrapper .rotation-method-label {
+    margin-right: 20px;
+}
+.rotation-method-wrapper .form-check {
+    width: unset;
+}
+.table-proxy, .table-unused {
+    width: 850px;
+}
+
+.table-unused {
+    margin-top: 50px
+}
+
+.table-proxy th, .table-proxy td {
+    vertical-align: middle;
+}
+
+.table-unused td, .table-unused th {
+    vertical-align: middle;
+}
+
+.table-borderless td,
+.table-borderless th {
+    border: 0;
+}
+
+.control-button {
+    width: 850px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.checkbox-col {
+    width: 50px;
+}
+
+.proxy-url-col {
+    width: 550px;
+}
+
+.rotation-value-col {
+    width: 150px
+}
+
+.control-button-col {
+    width: 100px;
+}
+
+.activated-proxy {
+    background-color: #c3e6cb;
+}
+tr.proxy:first-child {
+    text-align: center;
+}
+
+.proxy-id {
+    display: inline-block;
+}
+
+.today-paid-amount {
+    text-align: center;
+}
+
+.sync-tracking-info {
+    width: 850px;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+#sync-tracking-info-btn {
+    margin-left: 62px;
+    margin-top: 12px;
+}
+
+.sync-info {
+    padding-top: 19px;
+    padding-left: 20px;
+}
+
+#sync-spinner {
+    display: none;
+}
+
+#update-nag, .update-nag {
+    display: none !important;
+}

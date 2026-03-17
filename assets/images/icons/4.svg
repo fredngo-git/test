@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="61px" viewBox="0 0 101 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 4</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4" transform="translate(1.000000, 1.000000)" fill-rule="nonzero">
+            <rect id="Rectangle-Copy-3" stroke="#B8B8B8" fill="#FFFFFF" x="0" y="0" width="99" height="59" rx="4"></rect>
+            <g id="+4" transform="translate(29.000000, 16.000000)" fill="#464646">
+                <polygon id="Path" points="7.79296875 23.3007812 7.79296875 15.4492188 0 15.4492188 0 12.1679688 7.79296875 12.1679688 7.79296875 4.375 11.1132812 4.375 11.1132812 12.1679688 18.90625 12.1679688 18.90625 15.4492188 11.1132812 15.4492188 11.1132812 23.3007812"></polygon>
+                <polygon id="Path" points="41.40625 21.25 39.0039062 21.25 39.0039062 27.9296875 35.5273438 27.9296875 35.5273438 21.25 22.578125 21.25 22.578125 18.203125 30.8203125 0 34.609375 0 26.484375 18.046875 35.5273438 18.046875 35.5273438 7.734375 39.0039062 7.734375 39.0039062 18.046875 41.40625 18.046875"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

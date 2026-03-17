@@ -1,0 +1,21 @@
+{
+    "name": "cs/cardsshield-gateway-paypal",
+    "type": "project",
+    "require": {
+        "wikimedia/composer-merge-plugin": "^2.1"
+    },
+    "extra": {
+        "merge-plugin": {
+            "include": [
+                "modules/*/composer.json"
+            ]
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "wikimedia/composer-merge-plugin": true
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
